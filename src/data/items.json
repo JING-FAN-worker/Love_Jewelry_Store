@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Ring",
+        "price": "200",
+        "imgUrl": "/imgs/Ring.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Bracelet",
+        "price": "100",
+        "imgUrl": "/imgs/Bracelet.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Necklace",
+        "price": "450",
+        "imgUrl": "/imgs/Necklace.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Earrings",
+        "price": "80",
+        "imgUrl": "/imgs/Earrings.jpg"
+    },
+    {
+        "id": 5,
+        "name": "PearlBracelet",
+        "price": "150",
+        "imgUrl": "/imgs/PearlBracelet.jpg"
+    },
+    {
+        "id": 6,
+        "name": "GoldRing",
+        "price": "220",
+        "imgUrl": "/imgs/GoldRing.jpg"
+    }
+]
